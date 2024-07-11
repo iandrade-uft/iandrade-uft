@@ -1,9 +1,5 @@
 # Perfil Profissional
 
-## Sobre Mim
-
-Sou Mestre em Matemática pela Universidade Federal do Tocantins (2014), com bacharelado em Ciências Contábeis (2022) pela mesma instituição e graduação em Licenciatura Plena em Física pelo Instituto Federal do Piauí (2009). Desde 2009, atuo no cargo de Físico, sendo responsável técnico pelo Laboratório de Ensino de Física do campus de Palmas da Universidade Federal do Tocantins (UFT).
-
 ## Formação Acadêmica
 
 - **Mestrado Profissional em Matemática - PROFMAT** - Universidade Federal do Tocantins (2014)
