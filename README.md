@@ -13,10 +13,12 @@
 ## Contato
 
 - **Email:** [igoandrade@uft.edu.br](mailto:igoandrade@uft.edu.br)
+- **Telefone:** (63) 3229-4766
+
 
 ---
 <div>
-    <a href="https://github.com/iandrade-uft">
+    <p><strong>GH Pages:</strong> <a href="https://iandrade-uft.github.io/">https://iandrade-uft.github.io/</a></p>
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=iandrade-uft&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iandrade-uft&layout=compact&langs_count=16&theme=dracula"/>
 </div>
